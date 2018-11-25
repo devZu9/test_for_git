@@ -11,3 +11,6 @@ def fun(x, y):
 
 def fun2(x, y):
     return x / y
+
+def fun3(x, y):
+    return x + y
